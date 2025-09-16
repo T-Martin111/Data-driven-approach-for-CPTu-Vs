@@ -1,4 +1,4 @@
-This project contains the code and data associated with the paper: Yuting Zhang, Héctor Marín-Moreno, Susan Gourvenec, Advancing Vs estimation from CPTu for engineering practice: A data-driven approach.
+This project contains the trained models and database associated with the paper: Yuting Zhang, Héctor Marín-Moreno, Susan Gourvenec, Advancing Vs estimation from CPTu for engineering practice: A data-driven approach.
 
 main.py loads the trained models from each folder along with the corresponding data files and performs predictions.
 
