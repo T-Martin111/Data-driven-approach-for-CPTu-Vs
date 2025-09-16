@@ -1,3 +1,5 @@
+This project contains the code and data associated with the paper: Yuting Zhang, Héctor Marín-Moreno, Susan Gourvenec, Advancing Vs estimation from CPTu for engineering practice: A data-driven approach.
+
 main.py loads the trained models from each folder along with the corresponding data files and performs predictions.
 
 Excel files contain the database (Train, Validation, and Test datasets). Data file names correspond to the number of features and data generation methods. For example, Data_8F_D4 represents predictions using eight features and Augmented-Linear (D4).
